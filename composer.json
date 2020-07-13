@@ -1,5 +1,5 @@
 {
-  "name": "the-turk/flarum-scrubber-fix",
+  "name": "flarumtr/scrubber-fix",
   "description": "Prevent scrubber from going above the footer.",
   "keywords": [
     "flarum",
